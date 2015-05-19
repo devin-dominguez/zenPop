@@ -1,6 +1,6 @@
 #zenPop
 zenPop is an in-progress experiment in using a video game as an OSC controller.
- [www.dominguezaudio.com](http://www.dominguezaudio.com) for more info.
+Visti [www.dominguezaudio.com](http://www.dominguezaudio.com) for more info.
 
 zenPop uses [openFrameworks](http://www.openframeworks.cc) as well as some addons.
 
